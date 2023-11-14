@@ -1,2 +1,0 @@
-TOKEN = "6669751990:AAHyCZjHwafKBxv34w-OyHfMTJ_1y6EZGFc"
-BOT_NICKNAME = "universum_game_bot"
